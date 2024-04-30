@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Alex Muñoz</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="">Alex Muñoz</a>👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://www.canva.com/design/DAF0DWts7wM/mLpzHqC528bXHnTgPPzkZA/edit">
 
 
 ## Sobre mi
