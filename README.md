@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Alex Muñoz</a>👋</h1>
 </div>
-<img src="https://postimg.cc/CzmdPFWP">
+<img src="https://i.postimg.cc/Qdr5MCS3/Black-Minimal-Motivation-Quote-Linked-In-Banner.png">
 
 
 ## Sobre mi
