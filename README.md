@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Alex Muñoz</a>👋</h1>
 </div>
-<img src="">
+<img src="https://postimg.cc/CzmdPFWP">
 
 
 ## Sobre mi
