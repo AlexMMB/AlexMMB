@@ -6,8 +6,8 @@
 
 ## Sobre mi
 
-- ⭐ Analista Programador y Consultor IT⭐ 
-- 📲 Futuro Mobile developer
+- ⭐ Analista Programador, Consultor IT y Ingeniero en Soporte ⭐ 
+- 💻 TechLife
 - 🫀 Amante de la tecnologia y la Informatica.
 <br>
 ### ⚙️ &nbsp;GitHub Analytics
