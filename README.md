@@ -50,13 +50,16 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <hr>
 
 <!-- QA y Automatización -->
-<h4 align="left">⚙️ QA & Automatización</h4>
+<h4 align="left">⚙️ Herramientas utilizadas</h4>
 
 
 <!-- CI/CD & DevOps -->
 <h4 align="left">☁️ CI/CD & DevOps</h4>
 
+<!-- Certificaciones-->
+<h4 align="left">🛡️ Certificaciones</h4>
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,js,py,html,css,bash&theme=light)](https://skillicons.dev)
 
 <h2 align="left">🌐 Conéctate conmigo</h2>
 
