@@ -46,17 +46,18 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <!-- Lenguajes de Programación -->
 <h4 align="left">💻 Lenguajes de Programación</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,js,py,html,css,bash&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,js,py,html,css,bash,powershell&theme=light)](https://skillicons.dev)
 <hr>
 
-<!-- QA y Automatización -->
+<!-- Herramientas Utilizadas -->
 <h4 align="left">⚙️ Herramientas utilizadas</h4>
 
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,firebase,github,mysql,notion&theme=light)](https://skillicons.dev)
 
 <!-- CI/CD & DevOps -->
 <h4 align="left">☁️ CI/CD & DevOps</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,gcp,azure&theme=light)](https://skillicons.dev)
 
 <!-- Certificaciones-->
 <h4 align="left">🛡️ Certificaciones</h4>
