@@ -63,15 +63,9 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <h4 align="left">🛡️ Certificaciones</h4>
 <p align="left">
   &emsp;
-  <img src="https://images.credly.com/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="Credly Certification Badge" width="40" height="40" title="Credly Certification Badge"/>
+  <img src="https://images.credly.com/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="Credly Certification Badge" width="80" height="80" title="Credly Certification Badge"/>
   &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/805670f0-936f-4990-835d-3358985aa1fd" alt="typescript" width="40" height="40" title="TypeScript">
+
 </p>
 
 <h2 align="left">🌐 Conéctate conmigo</h2>
