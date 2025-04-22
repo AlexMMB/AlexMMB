@@ -74,10 +74,13 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <!-- Lenguajes de Programación -->
 <h4 align="left">💻 Lenguajes de Programación</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,js,pyhton,html,css&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=kotlin,js,py,html,css,bash&theme=light)](https://skillicons.dev)
 <hr>
 
+<!-- Lenguajes de Programación -->
+<h4 align="left">💻 Sistemas Operativos</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=apple,kali,linux,mint,windowstheme=light)](https://skillicons.dev)
 
 <h2 align="left">🌐 Conéctate conmigo</h2>
 
