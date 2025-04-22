@@ -65,7 +65,9 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
   &emsp;
   <img src="https://images.credly.com/images/52ea4613-6f77-4d62-8e19-5bb5c51722b8/blob" alt="Credly Certification Badge" width="80" height="80" title="Credly Certification Badge"/>
   &emsp;
-
+   <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Credly Certification Badge" width="80" height="80" title="Credly Certification Badge"/>
+  &emsp;
+   <img src="https://images.credly.com/size/680x680/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" alt="Credly Certification Badge" width="80" height="80" title="Credly Certification Badge"/>
 </p>
 
 <h2 align="left">🌐 Conéctate conmigo</h2>
