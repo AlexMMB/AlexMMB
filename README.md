@@ -38,38 +38,10 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <h3 align="left">🔧 Herramientas que Utilizo </h3>
 
 
-<!-- QA y Automatización -->
-<h4 align="left">⚙️ QA & Automatización</h4>
-<p align="left">
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/645dd589-c310-419f-8036-7be81836180c" alt="selenium" width="40" height="40" title="Selenium"/>
-  &emsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/d8108bd6-c868-4a05-9584-e3b500f6b8be" alt="jira" width="40" height="40" title="Jira"/>
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/a66e54d5-b106-4ee4-927f-35bc1a6354a0" width="40" height="40" title="NodeJS">
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/5aee0b39-cd80-48c9-bbd6-c1e778e70c3d" width="40" height="40" title="NPM">
-  &emsp;
-  <img src="https://playwright.dev/python/img/playwright-logo.svg" width="40" height="40" title="Playwright">
-  &emsp;
-  <img src="https://allurereport.org/svg/logo-report-sign.svg" width="40" height="40" title="AllureReport">
-</p>
+<!-- Sistemas Operativos -->
+<h4 align="left">💻 Sistemas Operativos</h4>
 
-<!-- CI/CD & DevOps -->
-<h4 align="left">☁️ CI/CD & DevOps</h4>
-<p align="left">
-  &emsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="Jenkins"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" title="Docker"/>
-  &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
-  &emsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=apple,kali,linux,mint,windows&theme=light)](https://skillicons.dev)
 
 <!-- Lenguajes de Programación -->
 <h4 align="left">💻 Lenguajes de Programación</h4>
@@ -77,10 +49,14 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,js,py,html,css,bash&theme=light)](https://skillicons.dev)
 <hr>
 
-<!-- Lenguajes de Programación -->
-<h4 align="left">💻 Sistemas Operativos</h4>
+<!-- QA y Automatización -->
+<h4 align="left">⚙️ QA & Automatización</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,kali,linux,mint,windows&theme=light)](https://skillicons.dev)
+
+<!-- CI/CD & DevOps -->
+<h4 align="left">☁️ CI/CD & DevOps</h4>
+
+
 
 <h2 align="left">🌐 Conéctate conmigo</h2>
 
