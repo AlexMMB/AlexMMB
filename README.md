@@ -68,15 +68,15 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 
 <p align="left">
   &emsp;
-  <a href="https://www.linkedin.com/in/felipepavez97" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-mu%C3%B1oz-bulo-1296b2249/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &emsp;
-  <a href="https://github.com/FVlejandro" target="_blank">
+  <a href="https://github.com/AlexMMB" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
   &emsp;
-  <a href="mailto:felipealejandropavez.97@gmail.com">
+  <a href="mailto:alexmauricio.contacto@gmail.com">
     <img src="https://github.com/user-attachments/assets/514701d7-6460-47d7-aa25-116a5b7fdb41" width="40" height="40" alt="Mail">
   </a>
 </p>
