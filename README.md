@@ -73,19 +73,8 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 
 <!-- Lenguajes de Programación -->
 <h4 align="left">💻 Lenguajes de Programación</h4>
-<p align="left">
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
-  &emsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" title="Bash"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/>
-  &emsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
-  &emsp;
-  <img src="https://github.com/user-attachments/assets/805670f0-936f-4990-835d-3358985aa1fd" alt="typescript" width="40" height="40" title="TypeScript">
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=kotlin,js,pyhton,html,css&theme=light)](https://skillicons.dev)
 
 <hr>
 
