@@ -52,7 +52,7 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <!-- Herramientas Utilizadas -->
 <h4 align="left">⚙️ Herramientas utilizadas</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,firebase,github,mysql,notion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,firebase,github,mysql,notion,figma&theme=light)](https://skillicons.dev)
 
 <!-- CI/CD & DevOps -->
 <h4 align="left">☁️ CI/CD & DevOps</h4>
