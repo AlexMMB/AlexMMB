@@ -41,7 +41,7 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <!-- Sistemas Operativos -->
 <h4 align="left">💻 Sistemas Operativos</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,kali,linux,mint,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,linux,windows&theme=light)](https://skillicons.dev)
 
 <!-- Lenguajes de Programación -->
 <h4 align="left">💻 Lenguajes de Programación</h4>
