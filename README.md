@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Alex Muñoz - Support Engieneer 💻🚀</h1>
+<h1 align="center">👨‍💻 Alex Muñoz - Support Engineer 💻🚀</h1>
 
 <hr>
 
