@@ -57,7 +57,7 @@ Profesional <strong>3 años de experiencia</strong>  brindando soporte técnico 
 <!-- CI/CD & DevOps -->
 <h4 align="left">☁️ CI/CD & DevOps</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,gcp,azure&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,gcp&theme=light)](https://skillicons.dev)
 
 <!-- Certificaciones-->
 <h4 align="left">🛡️ Certificaciones</h4>
